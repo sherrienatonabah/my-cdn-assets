@@ -182,58 +182,58 @@ textarea:focus {
 }
 @font-face {
     font-family: Muller;
-    src: local("Muller Bold"), local("MullerBold"), url("/content/fonts/muller_bold.f46fec22fe00f222f37ed4c117339b91.woff2") format("woff2"), url("/content/fonts/Muller-Bold.8c6e1b8574831eeb117ce698515f9a1c.woff") format("woff");
+    src: local("Muller Bold"), local("MullerBold"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/muller_bold.f46fec22fe00f222f37ed4c117339b91.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/Muller-Bold.8c6e1b8574831eeb117ce698515f9a1c.woff") format("woff");
     font-weight: 700;
     font-style: normal;
 }
 @font-face {
     font-family: Muller;
-    src: local("Muller ExtraBold"), local("MullerExtraBold"), url("/content/fonts/muller_extra_bold.93f0aa5c2c13b6bdf116fa80cce5fd65.woff2") format("woff2"),
-        url("/content/fonts/Muller-ExtraBold.dbc5716e3fa97fe3721e5f53aa41ec55.woff") format("woff");
+    src: local("Muller ExtraBold"), local("MullerExtraBold"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/muller_extra_bold.93f0aa5c2c13b6bdf116fa80cce5fd65.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/Muller-ExtraBold.dbc5716e3fa97fe3721e5f53aa41ec55.woff") format("woff");
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
     font-family: Muller;
-    src: local("Muller Black"), local("MullerBlack"), url("/content/fonts/muller_black.cb2ad4a14e24799709b541daa61c575b.woff2") format("woff2"), url("/content/fonts/Muller-Black.27725c574aa908aa1a790f0e6fbb4786.woff") format("woff");
+    src: local("Muller Black"), local("MullerBlack"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/muller_black.cb2ad4a14e24799709b541daa61c575b.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/Muller-Black.27725c574aa908aa1a790f0e6fbb4786.woff") format("woff");
     font-weight: 900;
     font-style: normal;
 }
 @font-face {
     font-family: Muller;
-    src: local("Muller Light"), local("MullerLight"), url("/content/fonts/muller_light.8ecac673d1a9144b89ba902acc773274.woff2") format("woff2"), url("/content/fonts/Muller-Light.7a12029f75952aa12f175cbb840f6083.woff") format("woff");
+    src: local("Muller Light"), local("MullerLight"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/muller_light.8ecac673d1a9144b89ba902acc773274.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/Muller-Light.7a12029f75952aa12f175cbb840f6083.woff") format("woff");
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: Muller;
-    src: local("Muller Medium"), local("MullerMedium"), url("/content/fonts/muller_medium.791d5958be3a4deb0c60bf641105fbc7.woff2") format("woff2"), url("/content/fonts/Muller-Medium.f88b4df4f2b1d4e12e9f470708e194f3.woff") format("woff");
+    src: local("Muller Medium"), local("MullerMedium"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/muller_medium.791d5958be3a4deb0c60bf641105fbc7.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/Muller-Medium.f88b4df4f2b1d4e12e9f470708e194f3.woff") format("woff");
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: Muller;
-    src: local("Muller Medium Italic"), local("MullerMediumItalic"), url("/content/fonts/muller_medium_italic.f2d923ec2a2ecac5754865f3d661ac96.woff2") format("woff2"),
-        url("/content/fonts/Muller-MediumItalic.543fb63ed1f36c6db25ad94ac58a1708.woff") format("woff");
+    src: local("Muller Medium Italic"), local("MullerMediumItalic"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/muller_medium_italic.f2d923ec2a2ecac5754865f3d661ac96.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/Muller-MediumItalic.543fb63ed1f36c6db25ad94ac58a1708.woff") format("woff");
     font-weight: 500;
     font-style: italic;
 }
 @font-face {
     font-family: Muller;
-    src: local("Muller Regular"), local("MullerRegular"), url("/content/fonts/muller_regular.96a27afe1a505f17f45d62993b8ae080.woff2") format("woff2"), url("/content/fonts/Muller-Regular.e1cc3703edec36cd6e5cba1427f8d89c.woff") format("woff");
+    src: local("Muller Regular"), local("MullerRegular"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/muller_regular.96a27afe1a505f17f45d62993b8ae080.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/Muller-Regular.e1cc3703edec36cd6e5cba1427f8d89c.woff") format("woff");
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: Museo Sans Cyrl\500;
-    src: local("MuseoSansCyrl-500"), local("Museo Sans Cyrl 500"), url("/content/fonts/MuseoSansCyrl-500.09e3e4f9f0ed50d4f3454fee78fb12ac.woff2") format("woff2"),
-        url("/content/fonts/MuseoSansCyrl-500.ee9aee2b3f0229eefc9ee630791bb57c.woff") format("woff");
+    src: local("MuseoSansCyrl-500"), local("Museo Sans Cyrl 500"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/MuseoSansCyrl-500.09e3e4f9f0ed50d4f3454fee78fb12ac.woff2") format("woff2"),
+        url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/MuseoSansCyrl-500.ee9aee2b3f0229eefc9ee630791bb57c.woff") format("woff");
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: Sochi2014;
-    src: local("Sochi2014 Bold"), local("Sochi2014-Bold"), url("/content/fonts/Sochi2014-Bold.b5e938118caf026434698a1e4c3c8ed1.woff") format("woff");
+    src: local("Sochi2014 Bold"), local("Sochi2014-Bold"), url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/fonts/Sochi2014-Bold.b5e938118caf026434698a1e4c3c8ed1.woff") format("woff");
     font-weight: 700;
     font-style: normal;
 }
@@ -12671,4 +12671,5 @@ table td, table th {
 { 
     margin: 10px 0;
     line-height: 1.5;
+
 }
