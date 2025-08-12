@@ -11,6 +11,6 @@ document.addEventListener( 'DOMContentLoaded', function() {
 
 (function($) {
 $(function() {
-  $("#game").load("/index/game.html");
+  $("#game").load("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/game.html");
 })
 })(jQuery)
