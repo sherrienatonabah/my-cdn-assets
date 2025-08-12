@@ -185,7 +185,7 @@ body {
     flex-direction: column;
     height: 100vh;
     background-color: #212132;
-    background-image: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/body_strips.526a52983c17baa3c7e277b3f871e06e.svg");
+    background-image: url("https://radchenko-ballet.com/content/img/body_strips.526a52983c17baa3c7e277b3f871e06e.svg");
     background-repeat: repeat;
     font-weight: 400;
     font-family: Muller, sans-serif;
@@ -651,7 +651,7 @@ footer {
     background-size: contain;
 }
 .icon_tournament {
-    background-image: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/icon_tournament.3e08b99c11d92bda07288896e01daee3.svg");
+    background-image: url("https://radchenko-ballet.com/icon_tournament.3e08b99c11d92bda07288896e01daee3.svg");
 }
 .icon_thumbs_up {
     background-image: url("");
@@ -3275,25 +3275,25 @@ form .box_btn {
     color: #17eada;
 }
 .nav-categories_item.x_slots .nav-categories_img {
-    background-image: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/icon_slots.f76d8383233a7579c6fb164a8638533b.svg");
+    background-image: url("https://radchenko-ballet.com/content/img/icon_slots.f76d8383233a7579c6fb164a8638533b.svg");
 }
 .nav-categories_item.x_live {
     color: #de593e;
 }
 .nav-categories_item.x_live .nav-categories_img {
-    background-image: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/icon_live.3c4dec011d69a634a78c103dc7da4b79.svg");
+    background-image: url("https://radchenko-ballet.com/content/img/icon_live.3c4dec011d69a634a78c103dc7da4b79.svg");
 }
 .nav-categories_item.x_casino {
     color: #6ef770;
 }
 .nav-categories_item.x_casino .nav-categories_img {
-    background-image: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/icon_casino.975c7b7d830201139a49de8357c8d8df.svg");
+    background-image: url("https://radchenko-ballet.com/content/img/icon_casino.975c7b7d830201139a49de8357c8d8df.svg");
 }
 .nav-categories_item.x_tournament {
     color: #e8ce3a;
 }
 .nav-categories_item.x_tournament .nav-categories_img {
-    background-image: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/icon_tournament.3e08b99c11d92bda07288896e01daee3.svg");
+    background-image: url("https://radchenko-ballet.com/content/img/icon_tournament.3e08b99c11d92bda07288896e01daee3.svg");
 }
 .nav-categories_link {
     display: block;
@@ -3368,7 +3368,7 @@ form .box_btn {
     display: block;
 }
 .beam-categories .nav-categories_item.x_active .nav-categories_link {
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #101226;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #101226;
     box-shadow: inset 0 20px 30px -15px rgba(255, 255, 255, 0.2);
 }
 .beam-categories .nav-categories_item.x_active .nav-categories_content {
@@ -4266,7 +4266,7 @@ form .box_btn {
 }
 .choose_game_valute {
     box-shadow: 0 8px 10px #000;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
     margin-bottom: 50px;
     box-sizing: border-box;
     max-width: 1000px;
@@ -5155,7 +5155,7 @@ form .box_btn {
     box-sizing: border-box;
     width: 300px;
     min-width: 300px;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #1c2240;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #1c2240;
 }
 .game_menu .game_menu_profile {
     overflow-x: hidden;
@@ -5351,7 +5351,7 @@ form .box_btn {
     border: 1px solid transparent;
     border-radius: 10px;
     padding: 10px;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1d2a49, #1d2a49) padding-box, linear-gradient(180deg, #4d5a85 0, rgba(70, 82, 121, 0)) border-box;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1d2a49, #1d2a49) padding-box, linear-gradient(180deg, #4d5a85 0, rgba(70, 82, 121, 0)) border-box;
 }
 .game_menu_authorized .box_progress progress {
     margin-bottom: 20px;
@@ -6643,7 +6643,7 @@ header .btn_help span {
     border: 1px solid transparent;
     border-radius: 10px;
     box-shadow: 0 8px 10px #000;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
     position: absolute;
     top: 50%;
     left: calc(50% - 240px);
@@ -6768,7 +6768,7 @@ header .btn_help span {
     border: 1px solid transparent;
     border-radius: 10px;
     box-shadow: 0 8px 10px #000;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
     overflow-y: auto;
     overflow-x: hidden;
     position: absolute;
@@ -6910,7 +6910,7 @@ header .btn_help span {
     box-sizing: border-box;
     width: 100%;
     padding-top: 40px;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #101226;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #101226;
     box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.5);
 }
 .layer_games:before {
@@ -6959,7 +6959,7 @@ header .btn_help span {
 footer {
     flex-direction: column;
     width: 100%;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #0a0a14;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #0a0a14;
 }
 .footer_inner_container,
 footer {
@@ -7025,7 +7025,7 @@ footer {
     opacity: 1;
 }
 .footer_payments ul {
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #0a0a14;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #0a0a14;
     display: flex;
     flex-wrap: wrap;
 }
@@ -7173,7 +7173,7 @@ footer {
     border: 1px solid transparent;
     border-radius: 10px;
     box-shadow: 0 8px 10px #000;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
     align-items: flex-start;
     justify-content: flex-start;
     margin-bottom: 30px;
@@ -8657,7 +8657,7 @@ footer {
     border-top-left-radius: 5px;
     border: 1px solid transparent;
     border-bottom: none;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat padding-box, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85 80%, transparent 81%, transparent) border-box;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat padding-box, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85 80%, transparent 81%, transparent) border-box;
     box-shadow: inset 0 40px 40px -40px rgba(255, 255, 255, 0.4);
     cursor: default;
 }
@@ -8668,7 +8668,7 @@ footer {
     border: 1px solid transparent;
     border-radius: 10px;
     box-shadow: 0 8px 10px #000;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
     margin-bottom: 30px;
     box-sizing: border-box;
     max-width: 960px;
@@ -10485,7 +10485,7 @@ footer {
     color: #b9b9be;
 }
 .tournament_card {
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #1c2240;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #1c2240;
     position: relative;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -10829,7 +10829,7 @@ footer {
     height: 250px;
     width: 1200px;
     padding: 2px;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat content-box, url("") repeat-y content-box;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat content-box, url("") repeat-y content-box;
 }
 .tournament-info .card_img {
     opacity: 0.3;
@@ -11359,7 +11359,7 @@ footer {
     z-index: 10;
     display: block;
     padding: 0 6px;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #101226;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, #101226;
 }
 .tournament_index_page .game-catalog,
 .tournament_index_page .tournament_header {
@@ -11724,7 +11724,7 @@ footer {
     border: 1px solid transparent;
     border-radius: 10px;
     box-shadow: 0 8px 10px #000;
-    background: url("https://cdn.jsdelivr.net/gh/sherrienatonabah/my-cdn-assets@main/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
+    background: url("https://radchenko-ballet.com/content/img/noise.842fbbbae5bd6f37b0268590b6f121ec.png") repeat, linear-gradient(#1c2240, #1c2240) padding-box, linear-gradient(180deg, #4d5a85, rgba(70, 82, 121, 0)) border-box;
     overflow: hidden;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -12616,6 +12616,7 @@ table td, table th {
     line-height: 1.5;
 
 }
+
 
 
 
