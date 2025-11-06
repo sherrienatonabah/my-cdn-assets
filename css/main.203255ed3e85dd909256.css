@@ -12628,13 +12628,13 @@ table td, table th {
     box-shadow: 0 0 16px rgba(255, 0, 80, 0.1);
     gap: 32px;
     transition: all 0.3s 
-ease-in-out;
+    ease-in-out;
 
 .author-avatar img {
     border-radius: 50%;
     box-shadow: 0 0 12px rgba(255, 255, 255, 0.08);
     transition: transform 0.3s 
-ease;
+    ease;
 
 .author-socials {
     display: flex;
@@ -12643,6 +12643,7 @@ ease;
 
 .author-content {
     color: #fff;
+
 
 
 
