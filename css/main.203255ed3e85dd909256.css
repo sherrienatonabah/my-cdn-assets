@@ -12617,6 +12617,34 @@ table td, table th {
 
 }
 
+.author-block {
+    margin: 48px 0;
+    padding: 32px;
+    display: flex;
+    align-items: center;
+    border-radius: 12px;
+    background: #1E1E2C;
+    border: 1px solid rgba(255, 0, 80, 0.3);
+    box-shadow: 0 0 16px rgba(255, 0, 80, 0.1);
+    gap: 32px;
+    transition: all 0.3s 
+ease-in-out;
+
+.author-avatar img {
+    border-radius: 50%;
+    box-shadow: 0 0 12px rgba(255, 255, 255, 0.08);
+    transition: transform 0.3s 
+ease;
+
+.author-socials {
+    display: flex;
+    gap: 16px;
+}
+
+.author-content {
+    color: #fff;
+
+
 
 
 
